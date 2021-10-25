@@ -1,0 +1,16 @@
+tweepy
+nltk
+pandas
+jupyterlab
+transformers[tf-cpu]
+datasets
+tokenizers
+torch
+numpy
+scipy
+emoji
+dtale
+pysentimiento
+matplotlib
+markovify
+python-dotenv
