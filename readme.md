@@ -12,6 +12,7 @@ Install requirements
 
     pip install -r requirements.txt
 
+Add a `.env` file for the Twitter API
 
 
 https://huggingface.co/gpt2
